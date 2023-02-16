@@ -1,0 +1,5 @@
+#folder
+libs/
+sinhradetuchoi.txt
+*.xml
+!img.xml
